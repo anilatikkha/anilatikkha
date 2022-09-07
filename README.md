@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilatikkha
 - 👀 I’m interested in learning and developing
-- 🌱 I’m currently learning Python, Azure, Power BI
+- 🌱 I’m currently learning Python, Azure, Power BI, JAVA
 
 
 <!---
