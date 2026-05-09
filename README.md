@@ -1,4 +1,4 @@
-I am excited to apply for the Consulting Analyst position. With 6 years of experience in operations analysis and survey development, I have honed my skills in requirement gathering, process documentation, SOP creation, ETL monitoring, SQL, SAS, and PostgreSQL. My experience has allowed me to collaborate effectively with both business and technical teams to deliver accurate, data-driven solutions.
+I am excited to apply for the Business Analyst | Operations & Reporting Analyst position. With 6 years of experience in operations analysis and survey development, I have honed my skills in requirement gathering, process documentation, SOP creation, ETL monitoring, SQL, SAS, and PostgreSQL. My experience has allowed me to collaborate effectively with both business and technical teams to deliver accurate, data-driven solutions.
 In my previous roles at WNS and AON, I have:
 Documented operational workflows and SOPs to standardize processes.
 Performed data validation and ETL monitoring to ensure reliable reporting.
